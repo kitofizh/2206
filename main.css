@@ -1,0 +1,21 @@
+@font-face {
+font-family: nobr2 ;
+src: grunge.ttf;}
+
+h1{
+font-family: nobr2, sans-serif;
+color: #000000;
+font-size: 2em;
+text-align: center;
+text-transform: uppercase;
+}
+h2{
+font-family: times-new-roman;
+color: #0f0f0f;
+font-size:0.2em;
+text-align: center;
+}
+body{
+font-family: nobr2, sans-serif, times-new-roman;
+background-color: #4d4d4d;
+}
